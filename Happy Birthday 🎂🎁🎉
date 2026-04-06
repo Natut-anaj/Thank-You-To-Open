@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For You...</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        .font-cursive { font-family: 'Great Vibes', cursive; }
+        .font-serif { font-family: 'Lora', serif; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade-in { animation: fadeIn 1.5s ease-out forwards; }
+
+        .letter-paper {
+            background-color: #fffdf9;
+            background-image: radial-gradient(#f0e8d5 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        @keyframes floating {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        .flower-float { animation: floating 4s ease-in-out infinite; }
+    </style>
+</head>
+
+<body class="bg-gradient-to-br from-amber-50 via-rose-50 to-orange-100 min-h-screen flex items-center justify-center p-4 sm:p-8">
+
+<main class="letter-paper max-w-2xl w-full rounded-3xl shadow-2xl overflow-hidden border border-amber-100/50 animate-fade-in relative">
+
+<div class="h-2 w-full bg-gradient-to-r from-yellow-300 via-amber-400 to-orange-300"></div>
+
+<div class="p-8 sm:p-12 md:px-16">
+
+<div class="flex justify-center mb-8">
+<div class="relative group flower-float">
+<img src="https://i.postimg.cc/wMzbnqwS/file-000000007f5071fa8698e0f7e09518dc.png"
+class="w-full max-w-[320px] rounded-2xl shadow-lg border-4 border-white object-cover">
+</div>
+</div>
+
+<h1 class="text-center font-cursive text-4xl sm:text-5xl text-amber-600 mb-10">
+This bouquet of flowers is for You 🌻
+</h1>
+
+<div class="font-serif text-gray-700 text-lg leading-relaxed space-y-6">
+
+<p>
+Since you gave me “The Great Gatsby” 📖, I felt it’s my duty to give you a book too… 😅  
+But since my knowledge about books is almost negative 📚❌, I tried to get the one that was already in your cart… 🛒
+</p>
+
+<p>
+Asa kori je tor ei gift ta pochondo hoyeche… 💛  
+Sudhu ekta kotha bolar ache…  
+<i>"Ekta kotha bolte bolte life er chapter e page berei choleche…”</i> 📖  
+Jai hok…
+</p>
+
+<p>
+Jeta ami bolte chachilam seta bolar age…
+</p>
+
+<p class="bg-rose-50 p-5 rounded-xl">
+Ami jani na tui exactly kano block korechis… 😔  
+Jodi eta naam ta na bolar jonno hoye thake… then I am extremely, infinitely sorry… 🙇‍♂️💔
+</p>
+
+<p>
+Ami oi din bari chilam na… Ami didi r laptop kinte gechhilam tokhon tui message koris… 💻  
+Baire thakar jonno ami tokhon sathe sathe reply korte pari ni…
+</p>
+
+<p>
+Tui notice o korbi ami type korchilam… ⌨️  
+Kintu send korte pari ni, karon puro lekha ta complete hoyni…
+</p>
+
+<p>
+And besides that, ami bhabini je tor eto kharap lagbe… 😞
+</p>
+
+<p>
+Tai age Sneha ke jigesh korechilam…  
+Sudhu ei jonno je toke na janai, aar tor kosto na hoy…
+</p>
+
+<p>
+Kintu she kichu bole ni…  
+Ar ami amar emotions control korte pari ni bole directly toke jigesh korechi…
+</p>
+
+<p class="bg-amber-50 p-5 rounded-xl">
+For this… I am realllllllyyyyyy sorryyyyyy… 🙏💔  
+Sotti bolchi… onekta…
+</p>
+
+<p>
+Ami sudhu toder moto manush der harate chai na… 🥺  
+Tai majhe majhe bhul bhal kaj kore pheli…
+</p>
+
+<p>
+Tor jodi mone hoy je block korei rakhbi… That’s up to you… 😞
+</p>
+
+<p>
+Kintu ekta request… ignore maris na please… 🙏 Plssss…
+</p>
+
+<p>
+Tui amake bujha amar bhul ta… Ami chup chap shune bujhe nebo…
+</p>
+
+<p class="text-center font-medium text-rose-500">
+But please… don’t do this to me… 🥺
+</p>
+
+<hr class="my-6">
+
+<p>
+Ar aita chara… aar ekta jinis—
+</p>
+
+<p>
+Last 2 years… ⏳  
+Ami jani na amra eksathe thakbo kina…  
+Kintu ami amar 100% debo jate ei bonding ta kokhono na bhenge jai… 🤝  
+Tarpor ja hobar seta hobei…
+</p>
+
+<p>
+Ato din tor sathe ja kotha hoyeche chat e…  
+Sotti bolte ami onekta Dip er sathe jerokom kotha boli, serokom i bolechi…  
+Ar samnasamni to… chere i de… 😅  
+Nervousness at its peak thake tokhon… 😶‍🌫️
+</p>
+
+<p>
+Ami toke like kori… tui o seta janis… ❤️  
+Ar ami ei jinis ta kokhono mon theke sorate parbo na…
+</p>
+
+<p>
+Tar mane emon noi je ami toke pressure dichi… ❌  
+Na na, erokom kokhono bhabis na please… 🙏
+</p>
+
+<p>
+Tor jodi kokhono mone hoy je—  
+“Ha, cheleta bhalo… Trust kora jabe… Sob kichu share kora jabe… And he will not judge…”
+</p>
+
+<p class="text-center">
+Tahole sudhu amake ekbar bolis… 🙂
+</p>
+
+<p>
+Besi ami ar bhaat bokbo na… 😅 Eta amar moner kotha chilo…
+</p>
+
+<p>
+Last 2 years jeno amra ei bonding ta aro strong kori… 💫  
+Friends hisebe hok ba jai kichu hok…
+</p>
+
+<p class="text-center font-semibold text-amber-700">
+Sudhu ekta jinis— Bhalo bhabe last 2 years ta enjoy kori… 🌻
+</p>
+
+<p class="text-center mt-6 text-xl font-cursive text-amber-600">
+Lastly… Bhalo thakis… 🌻💛
+</p>
+
+</div>
+</div>
+</main>
+
+</body>
+</html>
